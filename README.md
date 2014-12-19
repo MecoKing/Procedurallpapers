@@ -8,17 +8,11 @@ Currently you can only make fractured wallpapers, I will be adding more algorith
 
 TO RUN:
 1) Download the zip.
-
 2) Open project and run.
-
 3) Click the green 'fullscreen' button in the top left corner.
-
 4) Cycle through (by clicking) until you find a decent looking wallpaper.
-
 5) Hit [Cmnd + Shift + 3] to take a screenshot.
-
 6) Rename the screenshot and save it somewhere.
-
 7) Open System Preferences and change the wallpaper.
 
 (5 - 7 not required, you can always just watch the magic of PCG)
