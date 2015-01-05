@@ -20,7 +20,7 @@
     startLabel.fontSize = 20;
     startLabel.position = CGPointMake(CGRectGetMidX(self.frame),
                                    CGRectGetMidY(self.frame));
-    
+	srandomdev();
     [self addChild:startLabel];
 }
 
